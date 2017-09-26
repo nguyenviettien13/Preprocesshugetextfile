@@ -1,0 +1,5 @@
+﻿  dividefile.cpp
+d:\laptrinhcpp\preprocesshugetextfile\preprocesshugetextfile\dividefile\dividefile\dividefile.cpp(23): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+d:\laptrinhcpp\preprocesshugetextfile\preprocesshugetextfile\dividefile\dividefile\dividefile.cpp(23): warning C4309: 'initializing': truncation of constant value
+  dividefile.vcxproj -> D:\laptrinhcpp\Preprocesshugetextfile\Preprocesshugetextfile\dividefile\x64\Debug\dividefile.exe
+  dividefile.vcxproj -> D:\laptrinhcpp\Preprocesshugetextfile\Preprocesshugetextfile\dividefile\x64\Debug\dividefile.pdb (Partial PDB)
